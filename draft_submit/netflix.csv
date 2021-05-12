@@ -1,0 +1,563 @@
+,company,location,job-title,overall-ratings,work-balance-stars,culture-values-stars,carrer-opportunities-stars,comp-benefit-stars,senior-mangemnet-stars,helpful-count,year
+22554,netflix,"Los Angeles, CA",Former Employee - Video Editor,5.0,4.0,3.0,4.0,4.0,3.0,0,2018.0
+22555,netflix,"Los Angeles, CA",Current Employee - Anonymous Employee,4.0,4.0,5.0,4.0,5.0,4.0,8,2018.0
+22556,netflix,"Los Gatos, CA",Former Employee - Anonymous Employee,2.0,2.0,1.0,3.0,4.0,2.0,35,2018.0
+22557,netflix,"London, CA",Former Employee - N/A,4.0,4.0,4.0,4.0,3.0,3.0,0,2018.0
+22558,netflix,"Salt Lake City, UT",Former Employee - Tier III/Technical Research Analyst,2.0,2.0,2.0,1.0,5.0,2.0,1,2018.0
+22559,netflix,"Salt Lake City, UT",Former Employee - Anonymous Employee,4.0,4.0,4.0,4.0,5.0,4.0,5,2018.0
+22560,netflix,"Los Angeles, CA",Current Employee - Physical Production Coordinator,3.0,1.0,5.0,2.0,5.0,1.0,5,2018.0
+22561,netflix,"Los Gatos, CA",Former Employee - Linguist,3.0,2.0,3.0,3.0,3.0,2.0,0,2018.0
+22562,netflix,"Los Angeles, CA",Current Employee - Recruiter,5.0,4.0,5.0,5.0,5.0,5.0,1,2018.0
+22563,netflix,"Los Gatos, CA",Current Employee - Senior UI Engineer,5.0,5.0,5.0,5.0,5.0,5.0,2,2018.0
+22564,netflix,"New York, NY",Current Employee - Systems Administrator,4.0,3.0,5.0,5.0,5.0,3.0,1,2018.0
+22565,netflix,"Los Gatos, CA",Current Employee - Account Manager,3.0,3.0,4.0,3.0,4.0,3.0,0,2018.0
+22566,netflix,"San Francisco, CA",Current Employee - Senior Security Engineer,5.0,4.0,5.0,5.0,5.0,5.0,0,2018.0
+22567,netflix,"Los Gatos, CA",Former Employee - Senior Manager,4.0,1.0,5.0,4.0,5.0,5.0,5,2018.0
+22568,netflix,"Los Angeles, CA",Current Employee - Lead Creative,5.0,4.0,5.0,4.0,4.0,4.0,0,2018.0
+22569,netflix,"Salt Lake City, UT",Current Employee - Technical Research Analyst,5.0,5.0,5.0,5.0,5.0,5.0,0,2018.0
+22570,netflix,"Los Angeles, CA",Former Employee - Anonymous Employee,2.0,1.0,1.0,1.0,5.0,1.0,24,2018.0
+22571,netflix,"Los Angeles, CA",Current Employee - Anonymous Employee,5.0,5.0,5.0,5.0,5.0,5.0,4,2018.0
+22572,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,5.0,5.0,5.0,5.0,5.0,4.0,11,2018.0
+22573,netflix,"Los Gatos, CA",Former Employee - Senior Software Engineering Manager,3.0,3.0,1.0,3.0,5.0,3.0,67,2018.0
+22574,netflix,"Norcross, GA",Former Employee - Scanner,4.0,5.0,5.0,5.0,5.0,5.0,0,2018.0
+22575,netflix,"Los Gatos, CA",Current Employee - Senior UI Engineer,5.0,5.0,5.0,3.0,5.0,5.0,6,2018.0
+22576,netflix,"Salt Lake City, UT",Former Employee - Supervisor,1.0,4.0,1.0,1.0,5.0,1.0,2,2018.0
+22577,netflix,"Los Gatos, CA",Current Employee - Software Engineering Manager,5.0,3.0,5.0,4.0,4.0,4.0,10,2018.0
+22578,netflix,"Los Angeles, CA",Former Employee - Administrative Assistant,3.0,3.0,5.0,4.0,5.0,5.0,6,2018.0
+22579,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,5.0,5.0,5.0,5.0,5.0,5.0,0,2018.0
+22580,netflix,"Hillsboro, OR",Former Employee - Supervisor,3.0,3.0,3.0,3.0,3.0,2.0,0,2018.0
+22581,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,5.0,4.0,5.0,5.0,5.0,5.0,12,2018.0
+22582,netflix,"Salt Lake City, UT",Current Employee - CSR-1,1.0,1.0,2.0,1.0,3.0,1.0,16,2018.0
+22583,netflix,"Salt Lake City, UT",Former Employee - Customer Service Representative,1.0,1.0,1.0,1.0,2.0,1.0,12,2018.0
+22584,netflix,"Salt Lake City, UT",Current Employee - Customer Service Representative,4.0,4.0,4.0,3.0,5.0,4.0,2,2018.0
+22585,netflix,"Los Angeles, CA",Current Employee - Localization Project Manager,5.0,3.2,3.5,3.2,4.3,3.2,0,2018.0
+22586,netflix,"Salt Lake City, UT",Former Employee - Customer Service Representative,4.0,5.0,4.0,4.0,5.0,4.0,0,2018.0
+22587,netflix,"Los Gatos, CA",Former Employee - Product,3.0,5.0,4.0,3.0,5.0,3.0,22,2018.0
+22588,netflix,"Salt Lake City, UT",Former Employee - CSR2,5.0,3.0,5.0,2.0,5.0,3.0,2,2018.0
+22589,netflix,"Salt Lake City, UT",Current Employee - Customer Service Representative,3.0,3.0,4.0,1.0,4.0,2.0,26,2018.0
+22590,netflix,"Salt Lake City, UT",Current Employee - Technical Support Representative,5.0,3.0,5.0,4.0,5.0,5.0,0,2018.0
+22591,netflix,"Salt Lake City, UT",Current Employee - TSR,4.0,5.0,4.0,2.0,5.0,4.0,1,2018.0
+22592,netflix,"San Jose, CA",Former Employee - Tech Support,1.0,2.0,3.0,3.0,3.0,2.0,4,2018.0
+22593,netflix,"Salt Lake City, UT",Former Employee - TSR,2.0,3.0,1.0,4.0,4.0,1.0,5,2018.0
+22594,netflix,"Salt Lake City, UT",Former Employee - Anonymous Employee,3.0,1.0,5.0,2.0,5.0,3.0,3,2018.0
+22595,netflix,"Hollywood, CA",Current Employee - Finance Operations Associate,4.0,3.0,4.0,4.0,5.0,3.0,4,2018.0
+22596,netflix,"Salt Lake City, UT",Former Employee - Customer Service Representative,3.0,2.0,2.0,3.0,3.0,2.0,2,2018.0
+22597,netflix,"Los Angeles, CA",Current Employee - Assistant,5.0,3.0,5.0,4.0,5.0,5.0,19,2017.0
+22598,netflix,"Salt Lake City, UT",Current Employee - Customer Service Representative,4.0,3.0,5.0,2.0,5.0,4.0,0,2018.0
+22599,netflix,"Los Gatos, CA",Former Employee - Creative Director,4.0,3.0,5.0,4.0,5.0,4.0,1,2018.0
+22600,netflix,"Colorado Springs, CO",Former Employee - Senior Network Architect,5.0,3.0,5.0,5.0,5.0,4.0,5,2018.0
+22601,netflix,"Los Gatos, CA",Former Employee - Senior Software Engineer,3.0,4.0,1.0,1.0,4.0,2.0,40,2017.0
+22602,netflix,"Fremont, CA",Current Employee - Senior NOC Engineer,4.0,2.0,3.0,3.0,5.0,4.0,1,2017.0
+22603,netflix,"Los Gatos, CA",Current Employee - Anonymous Employee,5.0,5.0,5.0,5.0,5.0,5.0,1,2017.0
+22604,netflix,"Los Gatos, CA",Current Employee - Anonymous Employee,5.0,4.0,5.0,4.0,5.0,4.0,7,2017.0
+22605,netflix,"Fremont, CA",Current Employee - Call Center DVD,1.0,2.0,1.0,1.0,2.0,1.0,1,2017.0
+22606,netflix,"Los Angeles, CA",Former Employee - Senior Manager,5.0,2.0,5.0,5.0,5.0,3.0,7,2017.0
+22607,netflix,"Los Gatos, CA",Current Employee - Anonymous Employee,5.0,5.0,5.0,5.0,5.0,5.0,1,2017.0
+22608,netflix,"Salt Lake City, UT",Current Employee - Customer Service Representative,5.0,3.0,5.0,4.0,5.0,5.0,1,2017.0
+22609,netflix,"Los Angeles, CA",Current Employee - PR/Marketing,5.0,5.0,5.0,5.0,5.0,5.0,6,2017.0
+22610,netflix,"Farmington Hills, MI",Former Employee - Anonymous Employee,2.0,2.0,2.0,2.0,3.0,1.0,2,2017.0
+22611,netflix,"Salt Lake City, UT",Former Employee - Csr1,2.0,1.0,1.0,1.0,3.0,1.0,0,2017.0
+22612,netflix,"Los Gatos, CA",Current Employee - Senior Data Scientist,5.0,5.0,5.0,5.0,5.0,4.0,4,2017.0
+22613,netflix,"New York, NY",Former Employee - Production Assistant,3.0,1.0,2.0,3.0,1.0,2.0,1,2017.0
+22614,netflix,"Los Gatos, CA",Former Employee - Senior Software Engineer,3.0,3.0,2.0,2.0,5.0,3.0,17,2017.0
+22615,netflix,"Los Angeles, CA",Former Employee - Anonymous Employee,2.0,4.0,3.0,2.0,4.0,5.0,20,2017.0
+22616,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,3.0,5.0,5.0,1.0,5.0,2.0,3,2017.0
+22617,netflix,"Salt Lake City, UT",Former Employee - Customer Service Representative,2.0,2.0,1.0,3.0,4.0,1.0,4,2017.0
+22618,netflix,"Salt Lake City, UT",Former Employee - Customer Service Representative,1.0,1.0,1.0,1.0,2.0,1.0,8,2017.0
+22619,netflix,"Los Gatos, CA",Former Employee - Senior Software Engineer,3.0,3.0,2.0,2.0,5.0,4.0,23,2017.0
+22620,netflix,"Denver, CO",Former Employee - Production Assistant,3.0,2.0,1.0,3.0,3.0,2.0,2,2017.0
+22621,netflix,"Salt Lake City, UT",Former Employee - Customer Service Representative,1.0,1.0,2.0,1.0,5.0,1.0,12,2017.0
+22622,netflix,"Salt Lake City, UT",Former Employee - Customer Service Representative,1.0,3.2,3.5,3.2,4.3,3.2,7,2017.0
+22623,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,5.0,4.0,5.0,4.0,5.0,4.0,1,2017.0
+22624,netflix,"Los Gatos, CA",Former Employee - Senior Software Engineer,1.0,1.0,1.0,1.0,5.0,1.0,31,2017.0
+22625,netflix,"Salt Lake City, UT",Former Employee - Anonymous Employee,3.0,5.0,3.0,1.0,5.0,1.0,7,2017.0
+22626,netflix,"Los Angeles, CA",Current Employee - Senior Account Manager,5.0,5.0,5.0,5.0,5.0,5.0,5,2017.0
+22627,netflix,"Salt Lake City, UT",Former Employee - TSR,4.0,3.0,5.0,4.0,5.0,4.0,1,2017.0
+22628,netflix,"Los Gatos, CA",Former Employee - Product Manager,5.0,3.0,1.0,2.0,3.0,1.0,13,2017.0
+22629,netflix,"Los Gatos, CA",Current Employee - Customer Experience Manager,4.0,4.0,4.0,4.0,5.0,4.0,0,2017.0
+22630,netflix,"Los Gatos, CA",Former Employee - Anonymous Employee,3.0,3.0,4.0,3.0,4.0,3.0,19,2017.0
+22631,netflix,"Salt Lake City, UT",Current Employee - Technical Support Representative,4.0,4.0,5.0,4.0,4.0,4.0,0,2017.0
+22632,netflix,"Los Gatos, CA",Current Employee - Anonymous Employee,1.0,1.0,1.0,1.0,4.0,2.0,27,2017.0
+22633,netflix,"Los Gatos, CA",Current Employee - Talent Acquisition Manager,5.0,3.0,5.0,5.0,5.0,5.0,9,2017.0
+22634,netflix,"Salt Lake City, UT",Former Employee - Technical Support Representative,4.0,4.0,5.0,2.0,4.0,3.0,0,2017.0
+22635,netflix,"Los Gatos, CA",Former Employee - Senior Software Engineer,1.0,2.0,1.0,2.0,4.0,2.0,52,2017.0
+22636,netflix,"Los Gatos, CA",Former Employee - Director,4.0,2.0,5.0,5.0,5.0,3.0,9,2017.0
+22637,netflix,"Fort Lauderdale, FL",Former Employee - Production Machine Operator,4.0,3.0,4.0,2.0,3.0,3.0,1,2017.0
+22638,netflix,"Los Angeles, CA",Current Employee - Senior Data Scientist,5.0,5.0,5.0,5.0,5.0,5.0,3,2017.0
+22639,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,5.0,5.0,5.0,5.0,5.0,5.0,5,2017.0
+22640,netflix,"Los Gatos, CA",Former Employee - Anonymous Employee,2.0,4.0,2.0,2.0,5.0,2.0,19,2017.0
+22641,netflix,"Los Gatos, CA",Current Employee - Anonymous Employee,1.0,3.0,1.0,1.0,4.0,2.0,29,2017.0
+22642,netflix,"Los Gatos, CA",Former Employee - Senior User Experience Designer,4.0,1.0,4.0,2.0,5.0,3.0,28,2017.0
+22643,netflix,"Clearwater, FL",Former Employee - Csr1,3.0,1.0,2.0,4.0,2.0,3.2,5,2017.0
+22644,netflix,"Los Gatos, CA",Former Employee - Senior Software Engineer,5.0,5.0,5.0,4.0,5.0,5.0,8,2017.0
+22645,netflix,"Los Gatos, CA",Former Employee - Anonymous Employee,4.0,3.2,3.5,3.2,4.3,3.2,0,2017.0
+22646,netflix,"Salt Lake City, UT",Former Employee - Customer Service Representative,3.0,3.0,4.0,2.0,4.0,4.0,7,2017.0
+22647,netflix,"Santa Ana, CA",Former Employee - Accountant,3.0,2.0,3.0,5.0,1.0,3.0,0,2017.0
+22648,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,3.0,2.0,3.0,5.0,5.0,3.0,130,2016.0
+22649,netflix,"Salt Lake City, UT",Current Employee - CSR-1,4.0,5.0,5.0,3.0,5.0,4.0,2,2017.0
+22650,netflix,"Salt Lake City, UT",Current Employee - Customer Service Representative,1.0,1.0,1.0,1.0,3.0,1.0,7,2017.0
+22651,netflix,"Los Gatos, CA",Former Employee - Data Engineering Manager,4.0,4.0,5.0,4.0,5.0,5.0,0,2017.0
+22652,netflix,"Salt Lake City, UT",Former Employee - Operations Supervisor,1.0,3.0,1.0,1.0,5.0,2.0,8,2017.0
+22653,netflix,"Los Gatos, CA",Former Employee - Anonymous Employee,2.0,3.0,2.0,2.0,4.0,1.0,27,2016.0
+22654,netflix,"Salt Lake City, UT",Former Employee - Customer Service Representative,2.0,1.0,1.0,1.0,4.0,1.0,16,2016.0
+22655,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,5.0,5.0,5.0,5.0,5.0,5.0,5,2016.0
+22656,netflix,"Denver, CO",Former Employee - Anonymous Employee,1.0,1.0,1.0,2.0,4.0,1.0,3,2017.0
+22657,netflix,"Los Gatos, CA",Current Employee - Senior Data Engineer,5.0,5.0,5.0,5.0,5.0,5.0,1,2016.0
+22658,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer In Test,3.0,4.0,3.0,2.0,4.0,2.0,7,2016.0
+22659,netflix,"Salt Lake City, UT",Current Employee - CSR-1,2.0,1.0,1.0,1.0,3.0,3.0,9,2016.0
+22660,netflix,"Salt Lake City, UT",Current Employee - Training and Development Manager,5.0,3.2,3.5,3.2,4.3,3.2,6,2016.0
+22661,netflix,"Beverly Hills, CA",Current Employee - Content Distribution Coordinator,5.0,4.0,5.0,5.0,5.0,4.0,5,2016.0
+22662,netflix,"Los Gatos, CA",Former Employee - Anonymous Employee,4.0,4.0,5.0,1.0,5.0,5.0,6,2016.0
+22663,netflix,"Los Angeles, CA",Current Employee - Senior Web UI Engineer,3.0,1.0,4.0,3.0,2.0,3.0,3,2016.0
+22664,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,5.0,5.0,5.0,5.0,5.0,5.0,9,2016.0
+22665,netflix,"Tampa, FL",Current Employee - CSR-1,1.0,1.0,3.0,2.0,4.0,1.0,3,2016.0
+22666,netflix,"Salt Lake City, UT",Current Employee - Customer Service Supervisor,3.0,4.0,2.0,1.0,5.0,1.0,7,2016.0
+22667,netflix,"Los Angeles, CA",Current Employee - Anonymous Employee,4.0,3.0,5.0,3.0,5.0,5.0,4,2016.0
+22668,netflix,"Los Gatos, CA",Current Employee - Anonymous Employee,5.0,4.0,5.0,5.0,5.0,4.0,16,2016.0
+22669,netflix,"Salt Lake City, UT",Current Employee - Customer Service Supervisor,4.0,5.0,5.0,4.0,5.0,5.0,8,2016.0
+22670,netflix,"Los Gatos, CA",Former Employee - Senior Software Engineer,5.0,5.0,5.0,4.0,5.0,5.0,4,2016.0
+22671,netflix,"Los Gatos, CA",Current Employee - Anonymous Employee,3.0,1.0,1.0,1.0,5.0,1.0,5,2016.0
+22672,netflix,"Salt Lake City, UT",Former Employee - CSR-1,1.0,1.0,2.0,1.0,2.0,3.0,6,2016.0
+22673,netflix,"Salt Lake City, UT",Former Employee - Csr1,3.0,4.0,3.0,3.0,4.0,5.0,1,2016.0
+22674,netflix,"Salt Lake City, UT",Former Employee - Customer Service Representative,5.0,4.0,3.0,2.0,4.0,3.0,0,2016.0
+22675,netflix,"Salt Lake City, UT",Current Employee - Customer Service Representative-voice,2.0,1.0,1.0,1.0,3.0,1.0,19,2016.0
+22676,netflix,"Los Gatos, CA",Current Employee - Anonymous Employee,4.0,2.0,3.5,4.0,4.0,3.0,1,2016.0
+22677,netflix,"Salt Lake City, UT",Current Employee - Customer Service Representative,1.0,1.0,3.0,1.0,2.0,1.0,5,2016.0
+22678,netflix,"Salt Lake City, UT",Former Employee - Customer Service Representative,5.0,4.0,5.0,5.0,5.0,5.0,1,2016.0
+22679,netflix,"Salt Lake City, UT",Former Employee - Customer Service Representative,3.0,3.0,3.0,3.0,5.0,1.0,5,2016.0
+22680,netflix,"Los Gatos, CA",Current Employee - Tier III,5.0,5.0,5.0,4.0,5.0,5.0,0,2016.0
+22681,netflix,"Beverly Hills, CA",Current Employee - Senior Marketing Manager,2.0,3.0,1.0,2.0,4.0,2.0,33,2016.0
+22682,netflix,"Salt Lake City, UT",Former Employee - TSR,4.0,3.0,5.0,4.0,5.0,4.0,1,2016.0
+22683,netflix,"Southfield, MI",Former Employee - Mentor/Trainer,4.0,4.0,4.0,3.0,3.0,4.0,1,2016.0
+22684,netflix,"Los Gatos, CA",Former Employee - Engineering Manager,1.0,1.0,1.0,1.0,4.0,1.0,22,2016.0
+22685,netflix,"Salt Lake City, UT",Current Employee - Customer Service Representative,4.0,5.0,5.0,3.0,4.0,4.0,1,2016.0
+22686,netflix,"Los Gatos, CA",Former Employee - Anonymous Employee,4.0,3.2,3.5,3.2,4.3,3.2,6,2016.0
+22687,netflix,"Los Angeles, CA",Current Employee - Anonymous Employee,4.0,1.0,3.0,4.0,5.0,1.0,2,2016.0
+22688,netflix,"Los Gatos, CA",Current Employee - Anonymous Employee,4.0,4.0,5.0,5.0,5.0,4.0,11,2016.0
+22689,netflix,"Hillsboro, OR",Former Employee - Csr1,4.0,4.0,5.0,3.0,4.0,4.0,2,2016.0
+22690,netflix,"Fort Lauderdale, FL",Former Employee - DVD Processor,4.0,3.0,3.0,3.0,4.0,3.0,0,2016.0
+22691,netflix,"Salt Lake City, UT",Former Employee - Chat Customer Service Agent,2.0,3.2,3.5,3.2,4.3,3.2,6,2016.0
+22692,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,5.0,4.0,5.0,4.0,5.0,5.0,20,2016.0
+22693,netflix,"Los Gatos, CA",Former Employee - UI Designer,4.0,4.0,3.0,3.0,4.0,3.0,0,2016.0
+22694,netflix,"Los Gatos, CA",Former Employee - Senior Software Engineer,5.0,5.0,5.0,3.0,5.0,5.0,5,2016.0
+22695,netflix,"Los Gatos, CA",Former Employee - Anonymous Employee,3.0,2.0,3.0,3.0,5.0,3.0,28,2016.0
+22696,netflix,"Los Gatos, CA",Former Employee - Customer Service Representative,4.0,5.0,5.0,3.0,5.0,4.0,0,2016.0
+22697,netflix,"Anaheim, CA",Former Employee - Machine Operator/Mailer,4.0,4.0,3.5,3.0,4.0,4.0,2,2016.0
+22698,netflix,"Naperville, IL",Current Employee - Operations Manager,4.0,2.0,5.0,1.0,4.0,2.0,4,2016.0
+22699,netflix,"Salt Lake City, UT",Current Employee - Customer Service Representative II,3.0,2.0,3.0,1.0,5.0,2.0,3,2016.0
+22700,netflix,"Los Gatos, CA","Current Employee - Global Learning and Development Curriculum Developer, E-learning",5.0,5.0,5.0,5.0,5.0,5.0,0,2016.0
+22701,netflix,"Hillsboro, OR",Former Employee - Customer Service Representative,2.0,3.0,1.0,1.0,2.0,3.0,5,2016.0
+22702,netflix,"Burbank, CA",Former Employee - AV CC Vefifier,5.0,3.0,5.0,4.0,4.0,5.0,3,2016.0
+22703,netflix,"Los Gatos, CA",Former Employee - Anonymous Employee,2.0,3.0,1.0,2.0,5.0,1.0,26,2016.0
+22704,netflix,"Los Gatos, CA",Former Employee - Senior Research Manager,5.0,4.0,5.0,4.0,5.0,4.0,9,2016.0
+22705,netflix,"Beverly Hills, CA",Former Employee - Content Partner Specialist,2.0,4.0,3.0,2.0,5.0,1.0,58,2015.0
+22706,netflix,"Aurora, CO",Former Employee - Customer Service Representative,3.0,3.2,3.5,3.2,4.3,3.2,3,2016.0
+22707,netflix,"Los Gatos, CA",Current Employee - Anonymous Employee,3.0,3.0,3.0,2.0,5.0,3.0,19,2015.0
+22708,netflix,"Chicago, IL",Former Employee - Anonymous Employee,5.0,3.2,3.5,3.2,4.3,3.2,0,2016.0
+22709,netflix,"Los Gatos, CA",Current Employee - Engineering Manager,4.0,5.0,5.0,2.0,5.0,5.0,12,2015.0
+22710,netflix,"Beverly Hills, CA",Current Employee - Anonymous Employee,5.0,5.0,5.0,4.0,5.0,5.0,9,2015.0
+22711,netflix,"Beverly Hills, CA",Former Employee - Anonymous Employee,1.0,3.2,3.5,3.2,4.3,3.2,12,2016.0
+22712,netflix,"Salt Lake City, UT",Former Employee - Csr1,2.0,3.0,1.0,1.0,3.0,1.0,0,2016.0
+22713,netflix,"Aurora, CO",Former Employee - Customer Service Representative,4.0,1.0,1.0,2.0,3.0,1.0,8,
+22714,netflix,"Los Angeles, CA",Former Employee - Customer Service Representative II,1.0,1.0,2.0,3.0,3.0,1.0,16,2016.0
+22715,netflix,"Salt Lake City, UT",Former Employee - TSR,3.0,1.0,1.0,1.0,1.0,1.0,9,2015.0
+22716,netflix,"Salt Lake City, UT",Current Employee - Customer Service Representative I,5.0,3.0,5.0,5.0,5.0,4.0,3,2015.0
+22717,netflix,"Morgan Hill, CA",Current Employee - Anonymous Employee,5.0,4.0,5.0,4.0,5.0,5.0,0,2015.0
+22718,netflix,"Santa Monica, CA",Former Employee - Digital Account Specialist,1.0,1.0,1.0,1.0,4.0,2.0,27,2015.0
+22719,netflix,"Columbus, OH",Former Employee - Operations Associate III,5.0,5.0,5.0,4.0,5.0,3.0,0,2015.0
+22720,netflix,"Farmington Hills, MI",Former Employee - Customer Service Representative,1.0,1.0,3.0,1.0,2.0,1.0,8,2015.0
+22721,netflix,"Gilroy, CA",Current Employee - Senior Software Engineer,4.0,4.0,4.0,3.0,5.0,4.0,4,2015.0
+22722,netflix,"Los Gatos, CA",Former Employee - Anonymous Employee,4.0,4.0,5.0,5.0,4.0,3.0,18,2015.0
+22723,netflix,"Salt Lake City, UT",Current Employee - Customer Service Representative,4.0,3.0,5.0,5.0,5.0,5.0,1,2015.0
+22724,netflix,"Los Gatos, CA",Current Employee - Anonymous Employee,5.0,4.0,5.0,5.0,4.0,5.0,7,2015.0
+22725,netflix,"Salt Lake City, UT",Former Employee - Anonymous Employee,1.0,1.0,1.0,1.0,1.0,1.0,13,2015.0
+22726,netflix,"Los Gatos, CA",Current Employee - Manager,5.0,4.0,5.0,5.0,5.0,4.0,1,2015.0
+22727,netflix,"Redmond, WA",Current Employee - Anonymous Employee,5.0,5.0,4.0,5.0,5.0,5.0,3,2015.0
+22728,netflix,"Los Gatos, CA",Current Employee - Anonymous Employee,4.0,3.0,4.0,3.0,5.0,5.0,1,2015.0
+22729,netflix,"Los Gatos, CA",Current Employee - Anonymous Employee,5.0,5.0,5.0,5.0,5.0,5.0,0,2015.0
+22730,netflix,"Los Gatos, CA",Current Employee - Anonymous Employee,5.0,4.0,5.0,4.0,5.0,5.0,6,2015.0
+22731,netflix,"Salt Lake City, UT",Current Employee - Csr1 Chat,5.0,5.0,5.0,5.0,5.0,5.0,5,2015.0
+22732,netflix,"Los Gatos, CA",Current Employee - Engineering Manager,5.0,4.0,5.0,5.0,5.0,5.0,3,2015.0
+22733,netflix,"Beverly Hills, CA",Current Employee - Senior Analyst,5.0,5.0,5.0,5.0,5.0,5.0,3,2015.0
+22734,netflix,"Hillsboro, OR",Former Employee - Customer Service Representative,3.0,3.0,3.0,3.0,3.0,3.0,2,2015.0
+22735,netflix,"Santa Clara, CA",Former Employee - Anonymous Employee,4.0,2.0,5.0,3.0,5.0,5.0,1,2015.0
+22736,netflix,"Salt Lake City, UT",Current Employee - Customer Service Representative,3.0,1.0,3.0,3.0,5.0,3.0,7,2015.0
+22737,netflix,"Los Gatos, CA",Current Employee - Anonymous Employee,4.0,3.0,5.0,3.0,4.0,4.0,0,2015.0
+22738,netflix,"San Jose, CA",Current Employee - Senior Software Engineer,3.0,3.0,3.0,2.0,3.0,2.0,14,2015.0
+22739,netflix,"Los Gatos, CA",Former Employee - Global Support Technician,4.0,5.0,5.0,4.0,5.0,5.0,3,2015.0
+22740,netflix,"Salt Lake City, UT",Former Employee - Customer Service Representative,1.0,1.0,1.0,1.0,1.0,1.0,8,2015.0
+22741,netflix,"Fremont, CA",Current Employee - QA Engineer,5.0,5.0,5.0,5.0,5.0,5.0,1,2015.0
+22742,netflix,"Las Vegas, NV",Former Employee - Customer Service Representative,4.0,3.0,5.0,4.0,3.0,4.0,3,2015.0
+22743,netflix,"Pittsburgh, PA",Former Employee - Disc Return,5.0,4.0,5.0,4.0,4.0,5.0,0,2015.0
+22744,netflix,"Frisco, TX",Current Employee - Anonymous Employee,5.0,5.0,5.0,5.0,5.0,5.0,0,2015.0
+22745,netflix,"Fremont, CA",Current Employee - Customer Support Specialist,4.0,5.0,5.0,2.0,5.0,5.0,0,2015.0
+22746,netflix,"Denver, CO",Former Employee - Customer Service Representative I,1.0,1.0,3.0,2.0,1.0,1.0,5,2015.0
+22747,netflix,"Salt Lake City, UT",Former Employee - Operations Supervisor,1.0,2.0,3.0,1.0,2.0,1.0,12,2015.0
+22748,netflix,"Los Gatos, CA",Former Employee - Reliability Engineer,4.0,2.0,5.0,5.0,5.0,2.0,2,2015.0
+22749,netflix,"Hillsboro, OR",Former Employee - Anonymous Employee,4.0,3.0,5.0,4.0,5.0,4.0,0,2015.0
+22750,netflix,"Los Gatos, CA",Current Employee - Senior Systems Engineer,5.0,4.0,5.0,4.0,5.0,4.0,0,2015.0
+22751,netflix,"North Las Vegas, NV",Former Employee - Customer Service Representative II,4.0,4.0,4.0,4.0,4.0,3.0,1,2015.0
+22752,netflix,"Salt Lake City, UT",Current Employee - Anonymous Employee,1.0,1.0,1.0,1.0,5.0,1.0,5,2015.0
+22753,netflix,"Salt Lake City, UT",Former Employee - CSR-1,1.0,3.0,1.0,1.0,3.0,2.0,9,2015.0
+22754,netflix,"Los Gatos, CA",Former Employee - QA Engineer,3.0,4.0,3.0,3.0,4.0,2.0,7,2015.0
+22755,netflix,"Hillsboro, OR",Former Employee - Customer Service Representative,5.0,2.0,4.0,5.0,4.0,3.0,0,2015.0
+22756,netflix,"Lindenwold, NJ",Former Employee - Operations Equipment Technician,5.0,4.0,5.0,4.0,5.0,4.0,2,2015.0
+22757,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,5.0,5.0,5.0,5.0,5.0,5.0,0,2015.0
+22758,netflix,"San Jose, CA",Former Employee - Senior Program Manager,3.0,3.2,3.5,3.2,4.3,3.2,5,2015.0
+22759,netflix,"Hillsboro, OR",Former Employee - Customer Service Representative,4.0,3.0,4.0,2.0,3.0,2.0,5,2015.0
+22760,netflix,"Portland, OR",Current Employee - Customer Service/Tech Support,4.0,2.0,3.0,2.0,3.0,1.0,3,2015.0
+22761,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,5.0,5.0,5.0,5.0,5.0,5.0,10,2015.0
+22762,netflix,"Venice, CA","Former Employee - Director, Business &amp, Legal Affairs, Original Series",5.0,3.0,5.0,5.0,5.0,4.0,1,2015.0
+22763,netflix,"Los Gatos, CA",Current Employee - Anonymous Employee,4.0,4.0,5.0,4.0,4.0,5.0,5,2015.0
+22764,netflix,"Hillsboro, OR",Former Employee - CSR2,2.0,1.0,1.0,1.0,1.0,1.0,5,2015.0
+22765,netflix,"Beverly Hills, CA",Former Employee - Marketing,3.0,2.0,3.0,3.0,5.0,2.0,17,2015.0
+22766,netflix,"Los Gatos, CA",Current Employee - Data Engineer,5.0,3.0,5.0,5.0,5.0,5.0,4,2015.0
+22767,netflix,"Los Angeles, CA",Former Employee - Anonymous Employee,1.0,1.0,1.0,2.0,4.0,1.0,31,2015.0
+22768,netflix,"Los Gatos, CA",Former Employee - Senior Software Engineer,5.0,3.0,5.0,3.0,5.0,4.0,3,2015.0
+22769,netflix,"Fremont, CA",Former Employee - Customer Service Representative,2.0,2.0,2.0,2.0,3.0,3.0,13,2015.0
+22770,netflix,"Beverly Hills, CA",Former Employee - Anonymous Employee,1.0,2.0,3.0,2.0,5.0,1.0,33,2015.0
+22771,netflix,"Los Gatos, CA",Former Employee - Senior Marketing Manager,1.0,1.0,1.0,1.0,2.0,1.0,18,2015.0
+22772,netflix,"Hillsboro, OR",Former Employee - Customer Service Representative,2.0,2.0,1.0,2.0,2.0,1.0,8,2015.0
+22773,netflix,"Los Gatos, CA",Current Employee - Anonymous Employee,4.0,2.0,5.0,3.0,5.0,4.0,8,2015.0
+22774,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,5.0,4.0,4.0,3.0,5.0,4.0,8,2015.0
+22775,netflix,"Beaverton, OR",Former Employee - Csr1,1.0,1.0,1.0,1.0,2.0,1.0,9,2015.0
+22776,netflix,"Hillsboro, OR",Former Employee - Customer Service Representative,4.0,3.0,5.0,3.0,3.0,3.0,4,2015.0
+22777,netflix,"Los Gatos, CA",Former Employee - Anonymous Employee,1.0,1.0,1.0,1.0,3.0,1.0,23,2015.0
+22778,netflix,"Los Gatos, CA",Current Employee - Director,5.0,4.0,5.0,5.0,5.0,5.0,3,2015.0
+22779,netflix,"Farmington Hills, MI",Former Employee - Customer Service Representative,1.0,1.0,2.0,2.0,2.0,2.0,7,2015.0
+22780,netflix,"Hillsboro, OR",Former Employee - Csr1,2.0,1.0,2.0,2.0,4.0,2.0,20,2015.0
+22781,netflix,"Los Gatos, CA",Former Employee - Senior Software Engineer,5.0,5.0,5.0,5.0,5.0,5.0,10,2014.0
+22782,netflix,"Los Gatos, CA",Current Employee - Senior Program Manager,5.0,4.0,5.0,4.0,5.0,4.0,21,2014.0
+22783,netflix,"Beverly Hills, CA",Current Employee - Digital Account Specialist,2.0,3.0,1.0,1.0,4.0,1.0,24,2015.0
+22784,netflix,"Los Gatos, CA",Current Employee - Purchasing,2.0,1.0,1.0,3.0,4.0,1.0,17,2015.0
+22785,netflix,"Los Gatos, CA",Former Employee - Senior Position,1.0,1.0,1.0,1.0,4.0,1.0,43,2015.0
+22786,netflix,"Los Gatos, CA",Current Employee - Director of Engineering,5.0,5.0,3.5,5.0,5.0,5.0,14,2014.0
+22787,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,5.0,5.0,4.0,3.0,5.0,5.0,14,2014.0
+22788,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,4.0,4.0,4.0,3.0,5.0,4.0,18,2014.0
+22789,netflix,"Los Gatos, CA",Current Employee - Senior Engineering Manager,4.0,4.0,4.0,4.0,4.0,4.0,9,2014.0
+22790,netflix,"Beverly Hills, CA",Current Employee - Anonymous Employee,4.0,5.0,5.0,4.0,5.0,5.0,6,2014.0
+22791,netflix,"Los Gatos, CA",Current Employee - Senior Marketing Manager,4.0,3.0,5.0,4.0,5.0,4.0,4,2014.0
+22792,netflix,"Santa Clara, CA",Former Employee - Customer Service Representative,1.0,2.0,2.0,2.0,3.0,1.0,6,2015.0
+22793,netflix,"Los Gatos, CA",Former Employee - Software Engineer,4.0,4.0,3.0,3.0,5.0,5.0,2,2014.0
+22794,netflix,"Beverly Hills, CA",Current Employee - Content Operations Manager,5.0,4.0,5.0,4.0,5.0,5.0,5,2014.0
+22795,netflix,"Hillsboro, OR",Current Employee - CSR2,5.0,4.0,4.0,3.0,4.0,4.0,1,2014.0
+22796,netflix,"Frisco, TX",Former Employee - CSR-1,3.0,2.0,4.0,5.0,4.0,2.0,2,2014.0
+22797,netflix,"Hillsboro, OR",Current Employee - CSR-1,2.0,2.0,1.0,1.0,4.0,2.0,10,2014.0
+22798,netflix,"Los Gatos, CA",Former Employee - Senior Systems Administrator,2.0,1.0,1.0,2.0,5.0,2.0,29,2014.0
+22799,netflix,"Los Gatos, CA",Former Employee - Senior Software Engineer,4.0,3.0,3.0,5.0,5.0,3.0,8,2014.0
+22800,netflix,"Farmington Hills, MI",Former Employee - Customer Service Representative,5.0,1.0,5.0,1.0,2.0,1.0,4,2014.0
+22801,netflix,"Los Gatos, CA",Current Employee - Senior Research Engineer,5.0,5.0,4.0,4.0,5.0,4.0,2,2014.0
+22802,netflix,"Beaverton, OR",Current Employee - Customer Service Representative,4.0,2.0,2.0,1.0,3.0,1.0,1,2014.0
+22803,netflix,"Los Gatos, CA",Former Employee - Anonymous Employee,1.0,1.0,1.0,2.0,4.0,1.0,23,2014.0
+22804,netflix,"Los Gatos, CA",Former Employee - Anonymous Employee,4.0,4.0,5.0,3.2,5.0,4.0,3,2014.0
+22805,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,5.0,5.0,4.0,4.0,5.0,4.0,8,2014.0
+22806,netflix,"Portland, OR",Former Employee - Customer Service Representative,5.0,4.0,4.0,3.0,5.0,4.0,2,2014.0
+22807,netflix,"Hillsboro, OR",Former Employee - Technical Support,1.0,3.0,2.0,1.0,2.0,3.0,7,2014.0
+22808,netflix,"Los Gatos, CA",Former Employee - Anonymous Employee,4.0,2.0,4.0,4.0,5.0,3.0,5,2014.0
+22809,netflix,"Los Gatos, CA",Current Employee - Supervisor,5.0,3.0,5.0,4.0,5.0,4.0,6,2014.0
+22810,netflix,"Beaverton, OR",Former Employee - Customer Service Representative,1.0,2.0,2.0,3.0,4.0,2.0,7,2014.0
+22811,netflix,"Grove City, OH",Former Employee - Production Worker,4.0,5.0,5.0,4.0,5.0,5.0,1,2014.0
+22812,netflix,"Hillsboro, OR",Former Employee - Customer Service Representative,3.0,2.0,1.0,2.0,4.0,1.0,4,2014.0
+22813,netflix,"Los Gatos, CA",Current Employee - Anonymous Employee,4.0,3.0,5.0,5.0,5.0,5.0,6,2014.0
+22814,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,2.0,2.0,1.0,2.0,3.0,2.0,20,2014.0
+22815,netflix,"Hillsboro, OR",Current Employee - Customer Service Representative,4.0,3.0,5.0,3.0,5.0,3.0,1,2014.0
+22816,netflix,"Hillsboro, OR",Former Employee - CSR2,4.0,4.0,5.0,3.0,4.0,4.0,1,2014.0
+22817,netflix,"Portland, OR",Current Employee - Floor Support,5.0,4.0,4.0,5.0,5.0,4.0,0,2014.0
+22818,netflix,"Denver, CO",Current Employee - CSR-1,4.0,4.0,3.0,3.0,3.0,2.0,0,2014.0
+22819,netflix,"Los Angeles, CA",Current Employee - Anonymous Employee,5.0,4.0,5.0,5.0,5.0,5.0,5,2014.0
+22820,netflix,"Panama City, FL",Current Employee - Operations Manager,5.0,5.0,3.5,5.0,5.0,5.0,0,2014.0
+22821,netflix,"Los Gatos, CA",Current Employee - Senior Data Engineer,5.0,3.2,3.5,3.2,4.3,3.2,0,2014.0
+22822,netflix,"Los Gatos, CA",Former Employee - Senior Software Engineer,4.0,2.0,5.0,3.0,5.0,4.0,4,2014.0
+22823,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,4.0,3.0,4.0,4.0,4.0,3.0,4,2014.0
+22824,netflix,"Boise, ID",Former Employee - Operations Supervisor,5.0,5.0,5.0,4.0,4.0,4.0,0,2014.0
+22825,netflix,"Beverly Hills, CA",Former Employee - Content Team,3.0,2.0,3.0,2.0,4.0,2.0,6,2014.0
+22826,netflix,"Hillsboro, OR",Former Employee - Customer Service Representative,3.0,4.0,3.0,3.0,4.0,3.0,0,2014.0
+22827,netflix,"Hillsboro, OR",Former Employee - Disposition Representative,3.0,4.0,3.0,3.0,4.0,3.0,3,2014.0
+22828,netflix,"Hillsboro, OR",Former Employee - Csr1,1.0,1.0,1.0,1.0,1.0,1.0,10,2014.0
+22829,netflix,"Los Gatos, CA",Former Employee - Senior Software Engineer,4.0,3.0,5.0,5.0,5.0,4.0,4,2014.0
+22830,netflix,"Hillsboro, OR",Former Employee - Senior Supervisor,3.0,2.0,2.0,2.0,5.0,1.0,0,2014.0
+22831,netflix,"Los Gatos, CA",Former Employee - Senior Systems Administrator,2.0,2.0,1.0,1.0,4.0,1.0,14,2013.0
+22832,netflix,"Los Gatos, CA",Current Employee - Director Engineering,4.0,4.0,5.0,4.0,5.0,3.0,9,2013.0
+22833,netflix,"Hillsboro, OR",Current Employee - Customer Service,4.0,3.0,3.0,3.0,4.0,4.0,0,2013.0
+22834,netflix,"Santa Ana, CA",Former Employee - Repackager,2.0,4.0,2.0,2.0,3.0,2.0,2,2013.0
+22835,netflix,"Hillsboro, OR",Former Employee - Customer Service Supervisor III,4.0,5.0,5.0,5.0,4.0,4.0,1,2013.0
+22836,netflix,"Hillsboro, OR",Former Employee - Customer Service Representative,2.0,2.0,3.0,2.0,3.0,1.0,3,2013.0
+22837,netflix,"Frisco, TX",Current Employee - Call Center Representative,4.0,2.0,3.0,5.0,5.0,3.0,3,2013.0
+22838,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,5.0,4.0,5.0,5.0,5.0,5.0,11,2013.0
+22839,netflix,"Worcester, MA",Former Employee - Hub Manager,1.0,1.0,2.0,3.2,3.0,1.0,8,2013.0
+22840,netflix,"Las Vegas, NV",Former Employee - Customer Service Representative,4.0,3.0,3.0,2.0,3.0,3.0,1,2013.0
+22841,netflix,"Hillsboro, OR",Former Employee - Customer Service Representative,3.0,4.0,2.0,3.0,4.0,2.0,2,2013.0
+22842,netflix,"Santa Clarita, CA",Current Employee - Anonymous Employee,3.0,1.0,4.0,3.0,4.0,3.0,6,2013.0
+22843,netflix,"Portland, OR",Current Employee - CSR2,4.0,3.0,4.0,2.0,4.0,4.0,0,2013.0
+22844,netflix,"Los Gatos, CA",Current Employee - Director,5.0,5.0,5.0,5.0,5.0,5.0,5,2013.0
+22845,netflix,"Hillsboro, OR",Former Employee - Anonymous Employee,2.0,2.0,1.0,1.0,4.0,1.0,4,2013.0
+22846,netflix,"Los Gatos, CA",Current Employee - QA Engineer,4.0,3.0,4.0,4.0,5.0,3.0,2,2013.0
+22847,netflix,"Hillsboro, OR",Former Employee - Customer Service Manager,5.0,4.0,4.0,5.0,5.0,5.0,1,2013.0
+22848,netflix,"Portland, OR",Former Employee - Call Center Support Staff,1.0,1.0,1.0,2.0,2.0,1.0,7,2013.0
+22849,netflix,"Hillsboro, OR",Former Employee - CSR2,1.0,3.0,1.0,1.0,3.0,1.0,6,2013.0
+22850,netflix,"Los Angeles, CA",Former Employee - Digital Account Specialist,4.0,3.2,3.5,3.2,4.3,3.2,4,2013.0
+22851,netflix,"Los Gatos, CA",Former Employee - Anonymous Employee,3.0,1.0,3.0,3.0,5.0,2.0,4,2013.0
+22852,netflix,"Richmond, VA",Current Employee - Operations Supervisor,5.0,4.0,5.0,5.0,5.0,5.0,0,2013.0
+22853,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,2.0,1.0,2.0,1.0,4.0,3.0,25,2013.0
+22854,netflix,"Hillsboro, OR",Former Employee - CSR-1,3.0,2.0,2.0,3.0,3.0,2.0,4,2013.0
+22855,netflix,"Los Gatos, CA",Current Employee - Director,5.0,4.0,5.0,4.0,4.0,4.0,7,2013.0
+22856,netflix,"Los Gatos, CA",Current Employee - User Experience Designer,5.0,5.0,5.0,5.0,5.0,4.0,2,2013.0
+22857,netflix,"Lansing, MI",Former Employee - Assistant Manager,5.0,1.0,5.0,5.0,5.0,3.0,4,2013.0
+22858,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,4.0,3.0,3.0,4.0,4.0,4.0,3,2013.0
+22859,netflix,"Hillsboro, OR",Former Employee - CSR-1,3.0,4.0,3.0,2.0,4.0,3.0,2,2013.0
+22860,netflix,"Hillsboro, OR",Former Employee - Customer Service Representative,1.0,3.0,1.0,1.0,4.0,1.0,4,2013.0
+22861,netflix,"Richmond, VA",Former Employee - Machine Operator II,3.0,4.0,3.5,2.0,3.0,3.2,0,2013.0
+22862,netflix,"Los Gatos, CA",Current Employee - Senior Manager Content Accounting,5.0,5.0,5.0,3.0,5.0,4.0,1,2013.0
+22863,netflix,"Los Gatos, CA",Current Employee - Senior BI Architect,4.0,5.0,5.0,3.0,5.0,3.0,1,2013.0
+22864,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,5.0,5.0,5.0,5.0,5.0,4.0,9,2013.0
+22865,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,2.0,3.0,1.0,2.0,3.0,1.0,35,2013.0
+22866,netflix,"Las Vegas, NV",Current Employee - Customer Service Representative,3.0,3.0,4.0,3.0,4.0,3.0,1,2013.0
+22867,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,5.0,3.0,5.0,3.0,5.0,4.0,9,2013.0
+22868,netflix,"Frisco, TX",Former Employee - Customer Service Representative,3.0,2.0,4.0,3.0,4.0,3.0,3,2013.0
+22869,netflix,"Santa Clara, CA",Former Employee - Customer Service Representative,3.0,3.0,1.0,4.0,5.0,3.0,6,2013.0
+22870,netflix,"Los Gatos, CA",Current Employee - Anonymous Employee,4.0,5.0,4.0,4.0,5.0,4.0,0,2013.0
+22871,netflix,"Hillsboro, OR",Former Employee - Customer Service Representative,1.0,3.0,2.0,1.0,4.0,3.0,1,2013.0
+22872,netflix,"Hillsboro, OR",Former Employee - Customer Service Representative,4.0,5.0,4.0,4.0,5.0,4.0,0,2013.0
+22873,netflix,"Beaverton, OR",Former Employee - Customer Service Representative,1.0,1.0,1.0,2.0,4.0,1.0,3,2013.0
+22874,netflix,"San Jose, CA",Current Employee - BI Architect,5.0,3.0,2.0,2.0,5.0,1.0,0,2013.0
+22875,netflix,"Hillsboro, OR",Current Employee - Customer Service Representative,2.0,1.0,3.0,1.0,5.0,2.0,4,2012.0
+22876,netflix,"Hillsboro, OR",Current Employee - Anonymous Employee,2.0,1.0,2.0,2.0,4.0,2.0,4,2012.0
+22877,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,5.0,5.0,5.0,5.0,5.0,5.0,4,2012.0
+22878,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,5.0,4.0,4.0,4.0,5.0,5.0,5,2012.0
+22879,netflix,"Los Gatos, CA",Former Employee - Senior Software Engineer,1.0,1.0,1.0,1.0,3.0,1.0,25,2012.0
+22880,netflix,"Hillsboro, OR",Former Employee - Customer Service Supervisor,4.0,3.0,3.0,2.0,4.0,3.0,4,2012.0
+22881,netflix,"Hillsboro, OR",Former Employee - Customer Service Supervisor III,1.0,3.0,1.0,3.0,5.0,2.0,6,2012.0
+22882,netflix,"Los Angeles, CA",Former Employee - Director of Content,4.0,5.0,4.0,4.0,5.0,4.0,14,2012.0
+22883,netflix,"Hillsboro, OR",Former Employee - Customer Service Representative,3.0,2.0,4.0,2.0,4.0,3.0,1,2012.0
+22884,netflix,"Los Gatos, CA",Former Employee - Vice President,5.0,4.0,5.0,4.0,5.0,4.0,5,2012.0
+22885,netflix,"Dallas, TX",Former Employee - Operations Manager,1.0,1.0,3.0,1.0,2.0,1.0,3,2012.0
+22886,netflix,"San Francisco, CA",Former Employee - Product Design,4.0,3.2,3.5,3.2,4.3,3.2,0,2012.0
+22887,netflix,"Las Vegas, NV",Current Employee - Customer Service Representative,2.0,2.0,2.0,2.0,4.0,2.0,2,2012.0
+22888,netflix,"South Portland, ME",Former Employee - Manager,3.0,1.0,2.0,2.0,4.0,1.0,0,2012.0
+22889,netflix,"Los Gatos, CA",Former Employee - Manager,2.0,4.0,2.0,2.0,4.0,2.0,8,2012.0
+22890,netflix,"Los Gatos, CA",Former Employee - Anonymous Employee,2.0,2.0,2.0,3.0,5.0,1.0,5,2012.0
+22891,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,5.0,5.0,5.0,3.0,5.0,5.0,4,2012.0
+22892,netflix,"Hillsboro, OR",Former Employee - Instant Watch Customer Service,4.0,3.0,4.0,3.0,4.0,3.0,1,2012.0
+22893,netflix,"Los Gatos, CA",Former Employee - Director,3.0,2.0,1.0,3.0,5.0,3.0,19,2012.0
+22894,netflix,"Los Gatos, CA",Current Employee - Anonymous Employee,5.0,4.0,5.0,5.0,5.0,5.0,2,2012.0
+22895,netflix,"Hillsboro, OR",Former Employee - Netflix Customer Service Representative,2.0,2.0,2.0,2.0,1.0,1.0,4,2012.0
+22896,netflix,"Hillsboro, OR",Current Employee - Customer Service Representative,1.0,1.0,1.0,1.0,1.0,1.0,2,2012.0
+22897,netflix,"Los Gatos, CA",Current Employee - Creative Director,5.0,4.0,5.0,5.0,5.0,5.0,5,2012.0
+22898,netflix,"Hillsboro, OR",Former Employee - Anonymous Employee,3.0,4.0,1.0,1.0,4.0,1.0,0,2012.0
+22899,netflix,"Los Gatos, CA",Current Employee - Director of Engineering,5.0,4.0,5.0,4.0,5.0,5.0,3,2012.0
+22900,netflix,"Hillsboro, OR",Former Employee - Csr1,4.0,4.0,4.0,3.0,4.0,3.0,1,2012.0
+22901,netflix,"Phoenix, AZ",Former Employee - Operations Manager,5.0,4.0,4.0,4.0,5.0,4.0,0,2012.0
+22902,netflix,"Los Gatos, CA",Former Employee - Senior Software Engineer,5.0,5.0,3.5,4.0,5.0,5.0,2,2012.0
+22903,netflix,"Los Gatos, CA",Former Employee - Senior Software Engineer,1.0,1.0,3.5,1.0,1.0,1.0,41,2012.0
+22904,netflix,"San Jose, CA",Current Employee - Anonymous Employee,4.0,5.0,3.5,3.5,4.5,4.0,0,2012.0
+22905,netflix,"Los Gatos, CA",Former Employee - Software Engineer,1.0,2.0,3.5,1.0,3.5,1.0,24,2012.0
+22906,netflix,"Los Gatos, CA",Former Employee - Anonymous Employee,4.0,4.5,3.5,3.5,4.5,4.0,0,2012.0
+22907,netflix,"Hillsboro, OR",Former Employee - CSR-1,2.0,1.0,3.5,1.5,4.0,1.0,7,2012.0
+22908,netflix,"Hillsboro, OR",Former Employee - Customer Service Representative,2.0,1.0,3.5,2.0,2.5,3.0,7,2012.0
+22909,netflix,"Hillsboro, OR",Former Employee - Anonymous Employee,1.0,2.0,3.5,1.0,4.0,1.0,7,2012.0
+22910,netflix,"Beaverton, OR",Former Employee - Customer Service Supervisor II,1.0,1.5,3.5,1.5,3.0,1.0,1,2012.0
+22911,netflix,"Hillsboro, OR",Former Employee - CSR-1,1.0,1.0,3.5,1.0,2.0,1.0,2,2012.0
+22912,netflix,"Hillsboro, OR",Current Employee - Customer Service Representative II,2.0,1.0,3.5,2.0,3.5,2.0,4,2012.0
+22913,netflix,"Hillsboro, OR",Former Employee - Customer Service Representative,1.0,1.0,3.5,1.0,2.5,1.0,9,2012.0
+22914,netflix,"Hillsboro, OR",Current Employee - Customer Service Representative,4.0,3.5,3.5,3.0,4.5,4.0,0,2012.0
+22915,netflix,"Los Gatos, CA",Former Employee - Anonymous Employee,2.0,4.0,3.5,2.0,4.0,1.5,13,2012.0
+22916,netflix,"Los Gatos, CA",Former Employee - Senior Manager,3.0,4.0,3.5,1.5,4.0,4.0,7,2012.0
+22917,netflix,"Hillsboro, OR",Current Employee - Customer Service Representative II,2.0,1.0,3.5,2.0,3.5,2.0,5,2012.0
+22918,netflix,"Los Gatos, CA",Former Employee - Senior Software Engineer,3.0,2.5,3.5,3.0,4.0,1.0,9,2012.0
+22919,netflix,"Los Gatos, CA",Current Employee - Anonymous Employee,5.0,5.0,3.5,4.5,5.0,5.0,2,2012.0
+22920,netflix,"Hillsboro, OR",Former Employee - Management,2.0,2.5,3.5,3.5,4.5,2.0,11,2012.0
+22921,netflix,"Los Gatos, CA",Former Employee - Senior Engineering Manager,3.0,3.5,3.5,3.5,4.5,1.0,5,2011.0
+22922,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,2.0,3.5,3.5,1.0,3.0,2.5,16,2011.0
+22923,netflix,"Lansing, MI",Current Employee - Netflix Employee,2.0,3.5,3.5,2.0,3.0,2.0,5,2011.0
+22924,netflix,"Los Gatos, CA",Former Employee - Anonymous Employee,4.0,5.0,3.5,3.0,5.0,4.0,1,2011.0
+22925,netflix,"Los Gatos, CA",Former Employee - Anonymous Employee,3.0,5.0,3.5,4.0,4.5,1.5,11,2011.0
+22926,netflix,"Los Gatos, CA","Current Employee - Director of Data Science &amp, Analytics",5.0,4.5,3.5,3.5,4.5,4.5,3,2011.0
+22927,netflix,"Los Gatos, CA",Current Employee - Senior Manager,4.0,5.0,3.5,3.0,4.0,4.0,3,2011.0
+22928,netflix,"Los Gatos, CA",Former Employee - Senior Financial Analyst,1.0,2.0,3.5,1.0,4.0,1.0,20,2011.0
+22929,netflix,"Hillsboro, OR",Former Employee - Anonymous Employee,2.0,1.5,3.5,3.0,2.5,3.0,17,2011.0
+22930,netflix,"Hillsboro, OR",Current Employee - Anonymous Employee,4.0,2.5,3.5,3.0,4.5,5.0,8,2011.0
+22931,netflix,"Hillsboro, OR",Former Employee - Anonymous Employee,1.0,3.0,3.5,4.0,5.0,4.0,11,2011.0
+22932,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,5.0,4.0,3.5,4.5,4.5,5.0,1,2011.0
+22933,netflix,"Hillsboro, OR",Former Employee - Supervisor,1.0,1.0,3.5,1.0,3.5,1.0,10,2011.0
+22934,netflix,"Hillsboro, OR",Former Employee - Training Supervisor,4.0,3.0,3.5,5.0,5.0,4.0,5,2011.0
+22935,netflix,"Redwood City, CA",Former Employee - Director of Marketing,5.0,5.0,3.5,5.0,5.0,5.0,3,2011.0
+22936,netflix,"Hillsboro, OR",Current Employee - CSR-1,3.0,2.5,3.5,1.5,3.0,3.0,1,2011.0
+22937,netflix,"Los Gatos, CA",Former Employee - Anonymous Employee,2.0,3.5,3.5,2.0,3.0,1.5,10,2011.0
+22938,netflix,"Hillsboro, OR",Former Employee - Customer Service Representative,1.0,1.0,3.5,1.0,2.5,1.0,12,2011.0
+22939,netflix,"Hillsboro, OR",Former Employee - Anonymous Employee,2.0,2.5,3.5,4.0,3.5,3.0,13,2011.0
+22940,netflix,"Hillsboro, OR",Former Employee - Customer Service Representative,1.0,1.0,3.5,3.5,4.0,1.0,6,2011.0
+22941,netflix,"Los Gatos, CA",Former Employee - Senior Software Engineer,1.0,1.5,3.5,1.5,4.0,3.0,22,2011.0
+22942,netflix,"Los Gatos, CA",Current Employee - Engineering Manager,5.0,5.0,3.5,3.5,4.5,4.0,26,2011.0
+22943,netflix,"Hillsboro, OR",Former Employee - Customer Service Representative,3.0,1.0,3.5,4.0,4.5,2.5,10,2011.0
+22944,netflix,"Los Gatos, CA",Current Employee - Engineering Manager,5.0,5.0,3.5,5.0,5.0,5.0,10,2011.0
+22945,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,5.0,5.0,3.5,5.0,5.0,5.0,4,2011.0
+22946,netflix,"Hillsboro, OR",Current Employee - Customer Service Representative,1.0,1.0,3.5,1.0,4.5,2.0,7,2011.0
+22947,netflix,"Los Gatos, CA",Former Employee - Manager,1.0,3.5,3.5,1.0,2.0,1.0,47,2011.0
+22948,netflix,"Los Gatos, CA",Former Employee - Senior Engineer,3.0,4.0,3.5,2.5,3.5,1.0,3,2011.0
+22949,netflix,"Los Gatos, CA",Former Employee - Anonymous Employee,2.0,4.5,3.5,3.5,3.5,2.0,17,2010.0
+22950,netflix,"Hillsboro, OR",Former Employee - Anonymous Employee,1.0,2.0,3.5,1.0,4.5,1.0,12,2011.0
+22951,netflix,"Los Gatos, CA",Former Employee - Anonymous Employee,5.0,5.0,3.5,3.0,5.0,5.0,1,2011.0
+22952,netflix,"Hillsboro, OR",Current Employee - Customer Service Representative,2.0,3.0,3.5,1.0,3.0,2.0,20,2010.0
+22953,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer In Test,5.0,5.0,3.5,4.0,5.0,5.0,5,2010.0
+22954,netflix,"Hillsboro, OR",Current Employee - Anonymous Employee,2.0,4.5,3.5,2.0,4.0,1.0,8,2010.0
+22955,netflix,"Phoenix, AZ",Current Employee - DVD Sorter (Phoenix),1.0,2.0,3.5,1.0,2.0,1.0,4,2010.0
+22956,netflix,"Hillsboro, OR",Current Employee - Customer Service Representative,2.0,1.0,3.5,3.0,4.5,3.0,5,2010.0
+22957,netflix,"Los Gatos, CA",Former Employee - Senior Software Engineer,3.0,3.0,3.5,2.5,5.0,4.0,1,2010.0
+22958,netflix,"Los Gatos, CA",Current Employee - Anonymous Employee,3.0,4.0,3.5,3.0,4.5,2.0,9,2010.0
+22959,netflix,"Los Gatos, CA",Current Employee - Manager,1.0,1.0,3.5,1.0,2.0,1.0,1,2010.0
+22960,netflix,"Los Gatos, CA",Former Employee - Anonymous Employee,3.0,3.5,3.5,2.0,4.0,3.0,2,2010.0
+22961,netflix,"Hillsboro, OR",Current Employee - Customer Service Representative,3.0,2.5,3.5,2.0,4.0,3.5,5,2010.0
+22962,netflix,"Los Gatos, CA",Former Employee - IT Manager,3.0,3.0,3.5,3.0,5.0,1.0,8,2010.0
+22963,netflix,"Hillsboro, OR",Current Employee - Customer Service Representative,4.0,3.0,3.5,3.0,5.0,3.0,4,2010.0
+22964,netflix,"Los Gatos, CA",Former Employee - Great Service But Not Great A Place for A Career,2.0,1.5,3.5,1.0,3.0,1.5,23,2010.0
+22965,netflix,"Los Gatos, CA",Current Employee - Director,5.0,4.0,3.5,4.0,4.5,4.0,3,2010.0
+22966,netflix,"Los Gatos, CA",Former Employee - Senior Software Engineer,1.0,2.5,3.5,1.0,4.0,1.0,23,2010.0
+22967,netflix,"Hillsboro, OR",Former Employee - Customer Service Representative,3.0,4.0,3.5,3.5,4.5,2.5,3,2010.0
+22968,netflix,"Hillsboro, OR",Former Employee - Customer Service Representative,2.0,1.5,3.5,1.0,3.0,1.0,7,2010.0
+22969,netflix,"Hillsboro, OR",Former Employee - Customer Service Representative,1.0,1.5,3.5,1.0,5.0,1.0,10,2010.0
+22970,netflix,"Hillsboro, OR",Current Employee - Customer Service Representative,2.0,1.0,3.5,1.0,3.5,2.5,7,2010.0
+22971,netflix,"Hillsboro, OR",Current Employee - Customer Service Representative,4.0,2.5,3.5,2.0,3.5,2.5,8,2010.0
+22972,netflix,"Hillsboro, OR",Former Employee - Customer Service Representative,1.0,1.0,3.5,1.5,4.0,1.0,13,2010.0
+22973,netflix,"Salt Lake City, UT",Current Employee - Operations Supervisor,1.0,1.0,3.5,1.0,2.0,1.5,29,2010.0
+22974,netflix,"Los Gatos, CA",Former Employee - Manager,1.0,2.0,3.5,1.0,3.0,1.0,49,2010.0
+22975,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,5.0,4.0,3.5,4.0,4.0,5.0,8,2010.0
+22976,netflix,"Portland, OR",Current Employee - Customer Service Representative,3.0,3.5,3.5,3.0,4.0,2.5,0,2010.0
+22977,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,5.0,5.0,3.5,3.5,4.5,5.0,4,2010.0
+22978,netflix,"Hillsboro, OR",Current Employee - Customer Service Representative,3.0,3.0,3.5,3.0,3.0,3.0,2,2010.0
+22979,netflix,"Hillsboro, OR",Former Employee - Customer Service Representative,1.0,2.5,3.5,1.0,4.0,1.0,14,2010.0
+22980,netflix,"Hillsboro, OR",Former Employee - Customer Service Representative,1.0,1.5,3.5,2.0,4.0,1.0,13,2010.0
+22981,netflix,"Los Gatos, CA",Former Employee - Anonymous Employee,1.0,1.0,3.5,1.0,3.5,1.0,15,2010.0
+22982,netflix,"Hillsboro, OR",Former Employee - Customer Service Representative,2.0,1.0,3.5,1.0,2.5,1.0,5,2010.0
+22983,netflix,"Hillsboro, OR",Former Employee - Customer Service Representative,1.0,1.0,3.5,1.0,4.0,1.0,2,2010.0
+22984,netflix,"Los Gatos, CA",Current Employee - Anonymous Employee,2.0,2.0,3.5,1.0,3.0,3.0,11,2010.0
+22985,netflix,"Beverly Hills, CA",Current Employee - Anonymous Employee,2.0,3.5,3.5,1.5,4.5,1.0,19,2010.0
+22986,netflix,"Los Gatos, CA",Former Employee - Anonymous Employee,4.0,4.5,3.5,2.5,5.0,4.5,7,2010.0
+22987,netflix,"Hillsboro, OR",Former Employee - Customer Service Representative,2.0,4.5,3.5,1.5,4.5,4.0,1,2010.0
+22988,netflix,"Los Gatos, CA",Former Employee - Anonymous Employee,3.0,3.0,3.5,2.0,4.0,3.0,9,2010.0
+22989,netflix,"Hillsboro, OR",Former Employee - Customer Service Representative,2.0,2.5,3.5,1.0,4.0,2.0,4,2010.0
+22990,netflix,"Hillsboro, OR",Former Employee - Customer Service Representative II,1.0,1.0,3.5,1.0,4.0,1.0,5,2010.0
+22991,netflix,"Los Gatos, CA",Former Employee - Anonymous Employee,4.0,4.0,3.5,3.5,4.0,4.0,6,2009.0
+22992,netflix,"Los Gatos, CA",Former Employee - Director,3.0,3.0,3.5,1.0,4.5,3.0,14,2009.0
+22993,netflix,"Los Gatos, CA",Former Employee - Anonymous Employee,3.0,4.0,3.5,3.5,4.5,4.0,5,2009.0
+22994,netflix,"Hillsboro, OR",Current Employee - Customer Service Representative,3.0,1.0,3.5,2.0,2.5,4.0,4,2009.0
+22995,netflix,"Anchorage, AK",Current Employee - Machine Operator,5.0,5.0,3.5,4.5,3.5,5.0,1,2009.0
+22996,netflix,"Los Gatos, CA",Current Employee - Anonymous Employee,4.0,3.5,3.5,4.0,4.0,5.0,3,2009.0
+22997,netflix,"Hillsboro, OR",Current Employee - Customer Service Representative,3.0,2.5,3.5,3.0,4.0,1.0,4,2009.0
+22998,netflix,"Los Gatos, CA",Current Employee - Anonymous Employee,4.0,4.0,3.5,3.5,4.0,4.0,1,2009.0
+22999,netflix,"Los Gatos, CA",Current Employee - Senior Systems Engineer,5.0,4.0,3.5,4.5,4.5,5.0,2,2009.0
+23000,netflix,"Los Gatos, CA",Former Employee - Anonymous Employee,1.0,1.0,3.5,2.0,5.0,1.0,18,2009.0
+23001,netflix,"Los Gatos, CA",Current Employee - Anonymous Employee,2.0,4.0,3.5,1.0,2.0,1.0,5,2009.0
+23002,netflix,"Los Gatos, CA",Current Employee - Manager,4.0,4.0,3.5,4.0,5.0,5.0,5,2009.0
+23003,netflix,"Hillsboro, OR",Current Employee - Netflix Customer Service Representative,2.0,2.5,3.5,2.5,4.5,2.0,3,2009.0
+23004,netflix,"Hillsboro, OR",Current Employee - Customer Service Representative,2.0,3.0,3.5,2.0,3.5,3.0,4,2009.0
+23005,netflix,"Los Gatos, CA",Current Employee - Anonymous Employee,4.0,5.0,3.5,4.0,4.0,5.0,4,2009.0
+23006,netflix,"Hillsboro, OR",Current Employee - Customer Service Representative,1.0,1.0,3.5,1.0,2.0,1.0,6,2009.0
+23007,netflix,"Hillsboro, OR",Current Employee - Anonymous Employee,4.0,4.5,3.5,2.5,4.5,3.5,0,2009.0
+23008,netflix,"Hillsboro, OR",Former Employee - Customer Service Representative,2.0,1.5,3.5,1.0,2.5,1.0,7,2009.0
+23009,netflix,"Los Angeles, CA",Current Employee - Manager,4.0,4.5,3.5,3.0,3.0,5.0,1,2009.0
+23010,netflix,"Hillsboro, OR",Current Employee - Customer Service Representative,2.0,1.5,3.5,2.0,3.0,1.0,8,2009.0
+23011,netflix,"Hillsboro, OR",Current Employee - Team Manager,4.0,5.0,3.5,4.5,4.5,4.5,2,2009.0
+23012,netflix,"Worcester, MA",Former Employee - Operations Supervisor,1.0,2.0,3.5,1.5,2.0,3.0,5,2009.0
+23013,netflix,"Los Gatos, CA",Current Employee - Anonymous Employee,4.0,3.0,3.5,4.0,3.5,3.5,1,2009.0
+23014,netflix,"Hillsboro, OR",Current Employee - Customer Service Supervisor,4.0,5.0,3.5,3.5,3.5,4.0,0,2009.0
+23015,netflix,"Los Gatos, CA",Current Employee - Anonymous Employee,4.0,4.0,3.5,4.0,4.0,4.5,1,2009.0
+23016,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,1.0,2.0,3.5,1.0,4.0,2.5,9,2009.0
+23017,netflix,"Hillsboro, OR",Former Employee - Manager,2.0,1.5,3.5,2.0,4.0,1.0,7,2009.0
+23018,netflix,"Hillsboro, OR",Current Employee - Customer Service Supervisor,4.0,3.5,3.5,3.5,4.5,3.5,1,2009.0
+23019,netflix,"Hillsboro, OR",Current Employee - Anonymous Employee,5.0,4.0,3.5,5.0,3.0,4.5,1,2009.0
+23020,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,5.0,5.0,3.5,4.0,4.0,5.0,1,2009.0
+23021,netflix,"Los Gatos, CA",Current Employee - Anonymous Employee,3.0,4.0,3.5,3.0,4.0,3.5,0,2009.0
+23022,netflix,"Hillsboro, OR",Current Employee - Customer Service Representative,1.0,1.0,3.5,1.0,1.5,1.0,7,2009.0
+23023,netflix,"Hillsboro, OR",Current Employee - Customer Service Representative,1.0,1.0,3.5,1.0,4.0,1.0,5,2009.0
+23024,netflix,"Los Gatos, CA",Former Employee - Anonymous Employee,1.0,2.5,3.5,2.5,3.5,1.5,8,2009.0
+23025,netflix,"Hillsboro, OR",Current Employee - Anonymous Employee,2.0,3.0,3.5,1.0,4.0,1.0,5,2009.0
+23026,netflix,"Michigantown, IN",Current Employee - Anonymous Employee,3.0,2.0,3.5,3.5,5.0,4.0,0,2009.0
+23027,netflix,"Hillsboro, OR",Former Employee - Customer Service Representative,1.0,1.0,3.5,1.0,2.0,1.0,2,2009.0
+23028,netflix,"Los Gatos, CA",Former Employee - Senior Software Engineer,1.0,4.0,3.5,1.0,2.5,1.0,9,2009.0
+23029,netflix,"Beverly Hills, CA",Current Employee - Manager,4.0,4.5,3.5,2.5,4.0,5.0,7,2009.0
+23030,netflix,"Los Gatos, CA",Current Employee - Anonymous Employee,2.0,2.5,3.5,3.5,5.0,5.0,8,2009.0
+23031,netflix,"Hillsboro, OR",Current Employee - Administrative,4.0,4.0,3.5,4.0,3.5,4.0,0,2009.0
+23032,netflix,"Los Gatos, CA",Current Employee - Human Resources,4.0,4.0,3.5,3.5,2.0,4.5,0,2009.0
+23033,netflix,"Los Gatos, CA",Former Employee - Senior Software Engineer,1.0,3.0,3.5,1.5,3.0,2.5,28,2009.0
+23034,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,4.0,4.0,3.5,4.0,3.5,5.0,5,2009.0
+23035,netflix,"Los Gatos, CA",Current Employee - Vice President,5.0,4.0,3.5,5.0,4.0,5.0,3,2009.0
+23036,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,5.0,4.5,3.5,4.5,4.0,5.0,3,2009.0
+23037,netflix,"Hillsboro, OR",Current Employee - Manager,4.0,4.5,3.5,3.0,4.0,3.0,3,2009.0
+23038,netflix,"Beverly Hills, CA",Current Employee - Manager,3.0,3.0,3.5,2.5,4.0,4.0,11,2009.0
+23039,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,5.0,4.5,3.5,3.5,3.0,5.0,1,2009.0
+23040,netflix,"Saint Louis, MO",Former Employee - Operations Manager,1.0,1.0,3.5,1.0,1.0,1.0,2,2009.0
+23041,netflix,"Hillsboro, OR",Current Employee - Staff,2.0,2.0,3.5,1.0,3.5,3.0,8,2009.0
+23042,netflix,"Beverly Hills, CA",Current Employee - Manager,4.0,5.0,3.5,1.0,4.0,3.0,17,2009.0
+23043,netflix,"Los Gatos, CA","Current Employee - &#039,Anonymous&#039,",4.0,4.5,3.5,3.5,4.5,5.0,0,2009.0
+23044,netflix,"Los Gatos, CA",Current Employee - Employee,4.0,5.0,3.5,3.5,3.5,5.0,5,2009.0
+23045,netflix,"Los Gatos, CA",Current Employee - IT Ops Dork,3.0,3.0,3.5,2.5,4.0,4.0,6,2009.0
+23046,netflix,"Los Gatos, CA",Former Employee - Senior Software Engineer,2.0,4.0,3.5,1.0,4.5,2.0,9,2009.0
+23047,netflix,"Beverly Hills, CA",Former Employee - Coordinator,3.0,2.0,3.5,1.0,4.0,1.0,14,2008.0
+23048,netflix,"Beverly Hills, CA",Former Employee - Anonymous Employee,3.0,1.0,3.5,2.0,4.0,3.0,10,2009.0
+23049,netflix,"Beverly Hills, CA",Former Employee - Manager,2.0,2.0,3.5,1.0,4.0,2.0,14,2009.0
+23050,netflix,"Los Gatos, CA",Current Employee - Vice President,5.0,5.0,3.5,4.5,5.0,4.5,4,2009.0
+23051,netflix,"Los Gatos, CA",Former Employee - Anonymous Employee,4.0,5.0,3.5,5.0,5.0,4.0,0,2009.0
+23052,netflix,"Los Gatos, CA",Former Employee - Senior Software Engineer,5.0,4.5,3.5,4.0,4.5,5.0,1,2009.0
+23053,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,4.0,4.5,3.5,3.0,4.5,5.0,2,2009.0
+23054,netflix,"Los Angeles, CA",Former Employee - Manager,2.0,4.0,3.5,1.0,3.5,2.0,12,2008.0
+23055,netflix,"Hillsboro, OR",Former Employee - Anonymous Employee,2.0,1.0,3.5,2.0,3.5,1.5,5,2009.0
+23056,netflix,"Los Gatos, CA",Current Employee - Engineering Manager,4.0,4.0,3.5,4.0,4.0,5.0,2,2008.0
+23057,netflix,"Los Gatos, CA",Former Employee - Senior Software Engineer,2.0,3.5,3.5,2.0,4.5,3.5,8,2008.0
+23058,netflix,"Los Gatos, CA",Former Employee - Manager,3.0,3.5,3.5,3.0,3.5,2.0,1,2008.0
+23059,netflix,"Los Gatos, CA",Former Employee - Anonymous Employee,2.0,3.0,3.5,2.0,3.5,2.0,6,2008.0
+23060,netflix,"Los Gatos, CA",Current Employee - Director,5.0,5.0,3.5,4.5,4.0,5.0,3,2008.0
+23061,netflix,"Los Gatos, CA",Current Employee - Engineering Director,5.0,5.0,3.5,4.5,4.5,5.0,1,2008.0
+23062,netflix,"Los Gatos, CA",Current Employee - Engineering Director,5.0,5.0,3.5,4.0,4.0,5.0,2,2008.0
+23063,netflix,"Los Gatos, CA",Current Employee - Engineering Director,5.0,5.0,3.5,4.5,4.0,5.0,2,2008.0
+23064,netflix,"Los Gatos, CA",Current Employee - Director,5.0,4.5,3.5,4.5,3.5,5.0,1,2008.0
+23065,netflix,"Los Gatos, CA",Current Employee - Senior Web Engineer,3.0,5.0,3.5,3.0,2.5,5.0,8,2008.0
+23066,netflix,"Los Angeles, CA",Current Employee - Vice President,4.0,5.0,3.5,3.5,4.5,5.0,5,2008.0
+23067,netflix,"Los Gatos, CA",Current Employee - Anonymous Employee,5.0,4.5,3.5,4.5,4.0,5.0,1,2008.0
+23068,netflix,"Sunnyvale, CA",Current Employee - Director of Automation,5.0,5.0,3.5,4.5,4.5,5.0,1,2008.0
+23069,netflix,"Los Gatos, CA",Current Employee - Director,4.0,5.0,3.5,3.0,4.0,4.0,0,2008.0
+23070,netflix,"Los Gatos, CA",Current Employee - Director,4.0,4.0,3.5,4.0,4.0,3.0,0,2008.0
+23071,netflix,"Los Gatos, CA",Current Employee - Director of Security,5.0,5.0,3.5,4.0,5.0,5.0,1,2008.0
+23072,netflix,"Los Gatos, CA",Current Employee - Vice President,5.0,5.0,3.5,5.0,4.0,5.0,0,2008.0
+23073,netflix,"Los Gatos, CA",Current Employee - Anonymous Employee,5.0,5.0,3.5,4.5,4.5,5.0,0,2008.0
+23074,netflix,"Los Gatos, CA",Current Employee - Director,5.0,5.0,3.5,4.0,4.5,4.5,1,2008.0
+23075,netflix,"Beverly Hills, CA","Current Employee - Don&#039,t Know Yet",5.0,5.0,3.5,5.0,4.5,5.0,1,2008.0
+23076,netflix,"Los Gatos, CA",Current Employee - Anonymous Employee,4.0,5.0,3.5,4.0,4.5,4.5,0,2008.0
+23077,netflix,"Los Gatos, CA",Current Employee - Engineering Director,5.0,4.0,3.5,5.0,4.5,4.0,1,2008.0
+23078,netflix,"Los Gatos, CA","Current Employee - Director, UI Engineering",5.0,5.0,3.5,5.0,5.0,5.0,1,2008.0
+23079,netflix,"Los Gatos, CA",Current Employee - Director,5.0,5.0,3.5,4.0,3.0,5.0,1,2008.0
+23080,netflix,"Los Angeles, CA",Current Employee - Director of Content,5.0,5.0,3.5,4.5,4.5,5.0,1,2008.0
+23081,netflix,"San Jose, CA",Current Employee - Product Manager,3.0,4.0,3.5,1.0,2.5,3.0,2,2008.0
+23082,netflix,"Los Gatos, CA",Current Employee - Director,5.0,4.5,3.5,4.0,4.0,4.5,0,2008.0
+23083,netflix,"Beverly Hills, CA",Current Employee - Vice President,5.0,5.0,3.5,4.0,3.0,5.0,2,2008.0
+23084,netflix,"Los Gatos, CA",Former Employee - Product Development,4.0,5.0,3.5,3.5,4.0,4.0,0,2008.0
+23085,netflix,"Los Gatos, CA",Former Employee - Anonymous Employee,2.0,2.5,3.5,3.0,3.5,2.5,0,2008.0
+23086,netflix,"Los Gatos, CA",Current Employee - Chief Talent Officer,5.0,5.0,3.5,4.5,5.0,4.0,3,2008.0
+23087,netflix,"Los Gatos, CA",Current Employee - Web QA Manager,5.0,4.5,3.5,5.0,4.5,5.0,1,2008.0
+23088,netflix,"Hillsboro, OR",Current Employee - Movie Lover,4.0,3.0,3.5,5.0,5.0,4.5,1,2008.0
+23089,netflix,"Hillsboro, OR",Current Employee - Call Center Support Staff,4.0,5.0,3.5,4.5,4.5,4.0,2,2008.0
+23090,netflix,"Hillsboro, OR",Former Employee - Support Staff,2.0,5.0,3.5,1.0,4.5,4.0,9,2008.0
+23091,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,5.0,5.0,3.5,4.5,5.0,5.0,7,2008.0
+23092,netflix,"Los Gatos, CA",Current Employee - Human Resources,4.0,4.0,3.5,4.5,4.0,5.0,0,2008.0
+23093,netflix,"Los Gatos, CA",Former Employee - Anonymous Employee,5.0,5.0,3.5,5.0,5.0,5.0,0,2008.0
+23094,netflix,"Los Gatos, CA",Former Employee - Senior Visual Designer,5.0,5.0,3.5,4.5,4.5,4.5,3,2008.0
+23095,netflix,"Los Gatos, CA",Current Employee - Anonymous Employee,5.0,4.5,3.5,4.0,5.0,4.0,0,2008.0
+23096,netflix,"Los Gatos, CA",Current Employee - Marketing Manager,5.0,4.5,3.5,5.0,5.0,5.0,0,2008.0
+23097,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,5.0,5.0,3.5,5.0,5.0,5.0,0,2008.0
+23098,netflix,"Los Gatos, CA","Current Employee - Director, Product Management",5.0,4.5,3.5,4.0,4.5,5.0,11,2008.0
+23099,netflix,"Los Gatos, CA",Current Employee - Senior User Interface Engineer,5.0,5.0,3.5,4.0,5.0,5.0,0,2008.0
+23100,netflix,"Los Gatos, CA",Current Employee - Senior Software Engineer,5.0,5.0,3.5,5.0,5.0,5.0,0,2008.0
+23101,netflix,"London, England (UK)",Current Employee - N/A,5.0,4.0,5.0,4.0,5.0,5.0,0,2018.0
+23102,netflix,Madrid (Spain),Current Employee - Line Producer,4.0,2.0,4.0,4.0,4.0,4.0,0,2018.0
+23103,netflix,Amsterdam (Netherlands),Former Employee - Customer Service Representative,2.0,4.0,2.0,1.0,2.0,1.0,3,2018.0
+23104,netflix,Amsterdam (Netherlands),Former Employee - Csr1,1.0,2.0,1.0,1.0,3.0,1.0,3,2018.0
+23105,netflix,Amsterdam (Netherlands),Former Employee - CSR2,1.0,1.0,1.0,1.0,2.0,1.0,5,2018.0
+23106,netflix,Amsterdam (Netherlands),Current Employee - Business Analyst,4.0,4.0,3.0,4.0,5.0,4.0,0,2018.0
+23107,netflix,Chiang Mai (Thailand),Former Employee - Executive Assistant,2.0,2.0,2.0,3.0,2.0,2.0,0,2018.0
+23108,netflix,Amsterdam (Netherlands),Former Employee - Anonymous Employee,3.0,2.0,2.0,3.0,5.0,2.0,13,2018.0
+23109,netflix,Amsterdam (Netherlands),Current Employee - Supervisor,5.0,5.0,5.0,5.0,5.0,5.0,0,2018.0
+23110,netflix,Amsterdam (Netherlands),Current Employee - CSR 1,1.0,1.0,2.0,3.0,1.0,1.0,4,2018.0
+23111,netflix,Singapore (Singapore),Current Employee - Marketing Manager,5.0,3.0,5.0,5.0,5.0,5.0,3,2017.0
+23112,netflix,Berlin (Germany),Former Employee - Software Engineer,3.0,4.0,3.0,4.0,4.0,4.0,0,2017.0
+23113,netflix,Singapore (Singapore),Former Employee - Sales Representative,4.0,2.0,4.0,4.0,4.0,4.0,11,2016.0
+23114,netflix,Amsterdam (Netherlands),Former Employee - CS Agent,3.0,4.0,4.0,2.0,2.0,3.0,2,2016.0
+23115,netflix,Sartrouville (France),Current Employee - Chercheur postdoctoral,5.0,5.0,5.0,5.0,5.0,5.0,0,2018.0
