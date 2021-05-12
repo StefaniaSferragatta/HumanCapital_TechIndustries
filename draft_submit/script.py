@@ -51,16 +51,13 @@ def corr_matrix(df_company):
     return (corr_df_company)
 
 
-
-
-
-
-
-
-
-
-
-
+def get_train_df(df):
+    subset=['work_balance_stars','comp_benefit_stars','senior_mangemnet_stars','carrer_opportunities_stars','culture_values_stars','Job_code','Locations_code']
+    df[subset]=df[subset].astype(int)
+    df_train_test=df[['work_balance_stars','culture_values_stars','carrer_opportunities_stars','comp_benefit_stars','senior_mangemnet_stars']]
+    df_train = df_train_test.sample(n=len(df_train_test), random_state=1618)[0:int(len(df_train_test)*0.7)]
+    df_test = df_train_test.sample(n=len(df_train_test), random_state=1618)[int(len(df_train_test)*0.7):]
+    return df_test
 
 
 def refutel(mode):
