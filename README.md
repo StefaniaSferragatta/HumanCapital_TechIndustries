@@ -1,1 +1,9 @@
-# HumanCapital_TechIndustries
+# HumanCapital in BigTech companies
+
+In this repository there is the draft of the project for the QME course. It is done by the Group H (Baldo,Sferragatta,Lecce).
+
+In the draft folder there are the .csv files related to the datasets used, there are two Jupyter Notebooks in which the analysis are made. 
+
+One Notebook is related to the general analysis about all the six HighTech companies present into the dataset (please, if you have problem to load it check it on this [link]() )
+
+The other Notebook is a specific analysis for the Facebook company (please, if you have problem to load it check it on this [link]() )
