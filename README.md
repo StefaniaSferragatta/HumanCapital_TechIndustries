@@ -8,4 +8,4 @@ The 'Employee_General_Analysis.ipynb' notebook is related to the **general analy
 
 The 'facebook.ipynb' notebook is a **specific analysis** for the Facebook company (please, if you have problem to load it check it on this [link](https://nbviewer.jupyter.org/github/StefaniaSferragatta/HumanCapital_TechIndustries/blob/main/draft_submit/facebook.ipynb)).
 
-Our goal is to **do the analysis on all the six companies** like the one did on the Facebook one in order to compare the results obtained. Hence these is only a draft since we are looking forward to have the professor's feedback before to continue. 
+Our goal is to **do the analysis on all the six companies** (like the one done on the Facebook) in order to compare the results obtained. Hence these is only a draft since we are looking forward to have the professor's feedback before to continue. 
