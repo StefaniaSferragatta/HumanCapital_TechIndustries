@@ -1,4 +1,4 @@
-# HumanCapital in BigTech companies - Group H 
+# Human Capital in BigTech companies - Group H 
 
 
 In this repository there is the draft of the project for the QME course. 
