@@ -23,7 +23,6 @@ from pgmpy.estimators import HillClimbSearch, MaximumLikelihoodEstimator, BicSco
 from pgmpy.inference.CausalInference import CausalInference
 from pgmpy.models import BayesianModel
 from pgmpy.inference import VariableElimination
-#import econml
 import networkx as nx
 import pylab as plt
 from IPython.display import Image, display
